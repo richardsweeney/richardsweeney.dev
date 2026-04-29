@@ -22,7 +22,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${trykker.className} h-full antialiased bg-gray-950`}
+      className={`${trykker.className} h-full antialiased bg-gray-950 text-white`}
     >
       <body className="min-h-full flex flex-col bg-gray-950">
         <header className="w-full bg-gray-950">
