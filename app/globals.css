@@ -1,5 +1,13 @@
 @import "tailwindcss";
 
-body {
-    font-family: Trykker, Georgia, "Times New Roman", Times, serif;
+@layer base {
+    html {
+        background-color: #030712;
+    }
+
+    body {
+        color: white;
+        background-color: #030712;
+        font-family: Trykker, Georgia, "Times New Roman", Times, serif;
+    }
 }

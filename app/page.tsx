@@ -12,7 +12,7 @@ export default function Home() {
         combined with live instruments.
       </p>
 
-      <h2 className="text-2xl pt-8">Where do you want to go from here?</h2>
+      <h2 className="text-2xl pt-8">Where to from here?</h2>
 
       <div className="flex items-center gap-6 pt-2">
         <Link
